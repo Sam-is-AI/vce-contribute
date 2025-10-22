@@ -12,5 +12,5 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
-[Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
+[Sam Rosandick](https://github.com/Sam-is-AI) - Software development student, loves Pokémon, video gamesm, and playign golf
 
